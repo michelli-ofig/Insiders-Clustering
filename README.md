@@ -10,21 +10,21 @@ potenciais clientes no grupo Insiders Clustering.
 
 ### Hipóteses de Negócios
 
-**Quem são as pessoas elegíveis para do programa de fidelidade?**
+-**Quem são as pessoas elegíveis para do programa de fidelidade?**
  
 Clientes com alto ticket médio, alto LTV, baixa recência, alto basket size, baixa probabilidade de churn, alta propensão de compra?
 
-**Qual é a porcentagem de faturamento por ano vinda do cluster Insider?**
+-**Qual é a porcentagem de faturamento por ano vinda do cluster Insider?**
 
 Com esses dados é possível planejar qual é o custo para manter o cliente Insider.
 
-**Expectativa de faturamento:** 
+-**Expectativa de faturamento:** 
 
 Com isso é possível planejar quais ações devem ser feitas para manter o cliente Insider.
 
-**Quais ações tomar para fazer clientes com o perfil próximo ao Insider tornar-se um.**
+-**Quais ações tomar para fazer clientes com o perfil próximo ao Insider tornar-se um.**
 
-Antes de aplicar o modelo de Machine Learning é necessário identificar padrões do cliente Insider através da matriz RFM:
+**Antes de aplicar o modelo de Machine Learning é necessário identificar padrões do cliente Insider através da matriz RFM:**
 
 **Recência:** 
 
@@ -38,9 +38,9 @@ Antes de aplicar o modelo de Machine Learning é necessário identificar padrõe
 
 **Monetário:**
 
-Quanto o cliente traz de faturamento?
+- Quanto o cliente traz de faturamento?
 
-Cliente possui um alto LTV?
+- Cliente possui um alto LTV?
 
 ## Estratégia de Solução
 
@@ -48,7 +48,7 @@ Cliente possui um alto LTV?
 
 **Feature Engineering:** Foram criadas novas features através de features originais: Gross Revenue, Monetary, Recency, Frequency, Avg Ticket.
 
-**Exploratory Data Analysis:** Foram criada novas features para validação das hipóteses de negócio, são elas:  qtde_invoices, qtde_items, qtde_products,avg_ticket, avg_recency_days, frequency, qtde_returns, avg_basket_size, avg_unique_basket_size.
+**Exploratory Data Analysis:** Foram criadas novas features para validação das hipóteses de negócio, são elas:  qtde_invoices, qtde_items, qtde_products,avg_ticket, avg_recency_days, frequency, qtde_returns, avg_basket_size, avg_unique_basket_size.
 
 **Cluster Analysis:** Estudo do Espaço: PCA, t-SNE, Tree-Based Embedding, Decision Tree.
 
