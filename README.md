@@ -10,11 +10,11 @@ potenciais clientes no grupo Insiders Clustering.
 
 ### Hipóteses de Negócios
 
- **Quem são as pessoas elegíveis para do programa de fidelidade?**
+**Quem são as pessoas elegíveis para do programa de fidelidade?**
  
 Clientes com alto ticket médio, alto LTV, baixa recência, alto basket size, baixa probabilidade de churn, alta propensão de compra?
 
--**Qual é a porcentagem de faturamento por ano vinda do cluster Insider?**
+**Qual é a porcentagem de faturamento por ano vinda do cluster Insider?**
 
 Com esses dados é possível planejar qual é o custo para manter o cliente Insider.
 
@@ -22,7 +22,7 @@ Com esses dados é possível planejar qual é o custo para manter o cliente Insi
 
 Com isso é possível planejar quais ações devem ser feitas para manter o cliente Insider.
 
--**Quais ações tomar para fazer clientes com o perfil próximo ao Insider tornar-se um.**
+**Quais ações tomar para fazer clientes com o perfil próximo ao Insider tornar-se um.**
 
 Antes de aplicar o modelo de Machine Learning é necessário identificar padrões do cliente Insider através da matriz RFM:
 
