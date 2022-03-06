@@ -100,7 +100,7 @@ Foram testados e validados com o cross validation os modelos KMeans, GMN e HClus
 
 Composição do Cluster Insider: 
 - Número de clientes: 412 (14% dos clientes)
-- Faturamento médio: $ 9757,00
+- Faturamento médio: $ 9757,00 dólares
 - Recência média: 20 dias
 - Média de Produtos comprados: 451 produtos
 - Frequência de Produtos comprados: 0.10 produtos/dia
