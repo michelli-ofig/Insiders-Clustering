@@ -1,7 +1,7 @@
 # Insiders Clustering
 ![capa linkedin](https://user-images.githubusercontent.com/77075354/156940134-007ec87d-e28f-466e-9096-f71e03f0cbc1.jpeg)
 
-O Insiders Clustering trata-se de um programa de fidelidade da empresa All In On Place destinado a um pequeno número de clientes que possuí um alto número de volume de compras ou então compram produtos de alto valor o que acaba gerando um valor representativo para o faturamento da empresa. São clientes de alto valor e por isso precisam ser fidelizados.
+O Insiders Clustering trata-se de um programa de fidelidade da empresa All In On Place. Ele é destinado a um pequeno número de clientes que possuem um alto número de volume de compras ou, então, para aqueles que compram produtos de alto valor, produtos estes que geram um valor representativo para o faturamento da empresa. São clientes de alto valor e que, por isso, precisam ser fidelizados.
 
 ### Objetivo do Projeto
 
