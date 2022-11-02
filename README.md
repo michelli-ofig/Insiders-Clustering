@@ -85,7 +85,7 @@ Results of Models that have been applied:
 
 ![Clusters](https://user-images.githubusercontent.com/77075354/156941508-52322463-6560-4eac-9096-959959d6e843.PNG)
 
-## Conclusão
+## Conclusion
 
 Insider Cluster Composition:
 - Number of customers: 412 (14% of customers)
