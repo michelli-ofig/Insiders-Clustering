@@ -47,7 +47,7 @@ With this it’s possible to plan which actions should be taken to keep the Insi
 
 **Feature Engineering:** New features have been created through the original features: Gross Revenue, Monetary, Recency, Frequency, Avg Ticket.
 
-**Exploratory Data Analysis:** new features have been created for the validation of business hypotheses, they are:   qtde_invoices, qtde_items, qtde_products,avg_ticket, avg_recency_days, frequency, qtde_returns, avg_basket_size, avg_unique_basket_size.
+**Exploratory Data Analysis:** New features have been created for the validation of business hypotheses, they are:   qtde_invoices, qtde_items, qtde_products,avg_ticket, avg_recency_days, frequency, qtde_returns, avg_basket_size, avg_unique_basket_size.
 
 **Cluster Analysis:** Space study: PCA, t-SNE, Tree-Based Embedding, Decision Tree.
 
@@ -55,11 +55,11 @@ With this it’s possible to plan which actions should be taken to keep the Insi
 
 ## Top 3 Data Insights
 
-**H1.The customers of Insider Cluster have a volume (products) of purchases more than 10% of total purchases **
+**H1.The customers of Insider Cluster have a volume (products) of purchases more than 10% of total purchases**
 
 **True:** The Insider Cluster has a volume of product purchases of 51%.
 
-**H2. The customers of Insider Cluster have a volume (revenue) of purchases more than 10% of total purchases **
+**H2. The customers of Insider Cluster have a volume (revenue) of purchases more than 10% of total purchases**
 
 **True:** The Insider Cluster has a revenue of more than 50% of total purchases.
 
